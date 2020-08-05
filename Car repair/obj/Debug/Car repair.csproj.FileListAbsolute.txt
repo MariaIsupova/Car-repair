@@ -1,0 +1,12 @@
+C:\Users\Maria\source\repos\Car repair\Car repair\bin\Debug\Car repair.exe.config
+C:\Users\Maria\source\repos\Car repair\Car repair\bin\Debug\Car repair.exe
+C:\Users\Maria\source\repos\Car repair\Car repair\bin\Debug\Car repair.pdb
+C:\Users\Maria\source\repos\Car repair\Car repair\obj\Debug\Car repair.csprojAssemblyReference.cache
+C:\Users\Maria\source\repos\Car repair\Car repair\obj\Debug\Car_repair.Form1.resources
+C:\Users\Maria\source\repos\Car repair\Car repair\obj\Debug\Car_repair.Properties.Resources.resources
+C:\Users\Maria\source\repos\Car repair\Car repair\obj\Debug\Car repair.csproj.GenerateResource.cache
+C:\Users\Maria\source\repos\Car repair\Car repair\obj\Debug\Car repair.csproj.CoreCompileInputs.cache
+C:\Users\Maria\source\repos\Car repair\Car repair\obj\Debug\Car repair.exe
+C:\Users\Maria\source\repos\Car repair\Car repair\obj\Debug\Car repair.pdb
+C:\Users\Maria\source\repos\Car repair\Car repair\bin\Debug\CarRepair.mdf
+C:\Users\Maria\source\repos\Car repair\Car repair\bin\Debug\CarRepair_log.ldf
